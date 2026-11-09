@@ -1,0 +1,32 @@
+# Compiled Object & Precompiled Header Files
+*.o
+*.obj
+*.gch
+*.pch
+
+# Libraries & Shared Objects
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executables & Linker Files
+*.exe
+*.out
+*.app
+*.ilk
+*.map
+
+# Debug & Kernel Module Files
+*.dSYM/
+*.pdb
+*.su
+*.mod*
+
+# Build Directories
+[Bb]uild/
+[Bb]in/
+
+#vs-code
+.vscode/
